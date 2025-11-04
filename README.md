@@ -1,6 +1,8 @@
 # Algorithmique-et-pseudo-code
 Entrée Réel A argent= 10 |  Reéel B Prix=Pomme 1.50
 tant que argent >= prix 
+Pomme ← Pomme + 1
+Fin tant que
 
 Début Nombre de pomme =0
 
